@@ -20,7 +20,7 @@ const Footer = () => {
             >Posts</NavLink>
         </nav>
         <div className="copyrights">
-          &copy; 2023 <Link to="/"> Radhika_Sathe</Link> - All Rights Reserved.
+          &copy; 2023 <Link to="/"> Copyright (c) 2022 WebStylePress</Link> - All Rights Reserved.
         </div>
       </div>
     </footer>
